@@ -1,7 +1,7 @@
 ## Olá! eu sou Luis Davi
 
 - 💻 Focado em desenvolvimento Front-End
-- 🌱 Estou estudando React.js
+- 🌱 Trabalhando com React.js
 - 🏫 Cursando Ciência da Computação - UFC
 
 <div align="center">
