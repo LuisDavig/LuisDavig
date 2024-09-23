@@ -2,7 +2,6 @@
 
 - 💻 Focado em desenvolvimento Front-End
 - 🌱 Trabalhando com React.js
-- 🏫 Cursando Ciência da Computação - UFC
 
 <div align="center">
   <a href="https://github.com/LuisDavig">
